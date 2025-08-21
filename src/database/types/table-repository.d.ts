@@ -1,4 +1,4 @@
-type TableRepository {
+type TableRepository = {
   id: number
   table_number: number
   created_at: number
